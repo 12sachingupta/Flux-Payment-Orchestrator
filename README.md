@@ -3,7 +3,8 @@ Below is an even more creative, immersive README for Flux. It’s packed with en
 ```markdown
 # 🚀 Flux: Igniting the Future of Payment Orchestration 🚀
 
-![Flux Super Banner](https://via.placeholder.com/1400x400.png?text=Flux+%E2%80%93+Igniting+the+Future+of+Payments)
+![image](https://github.com/user-attachments/assets/fcefccf4-b0f9-4f1e-a5e5-493aa679f736)
+
 
 > **"Revolutionize the way money moves—where every transaction is a masterpiece of innovation."**
 
