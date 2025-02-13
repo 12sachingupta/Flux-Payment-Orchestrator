@@ -1,0 +1,22 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Deploy Core Service
+        run: echo "Deploying Core Service..."
+      
+      - name: Deploy Router Service
+        run: echo "Deploying Router Service..."
+      
+      - name: Deploy Dashboard Service
+        run: echo "Deploying Dashboard Service..."

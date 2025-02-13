@@ -1,0 +1,26 @@
+C:\Users\ibsci\AppData\Local\Programs\stack\x86_64-windows\ghc-9.8.4\lib\x86_64-windows-ghc-9.8.4\rts-1.0.2\include\ghcversion.h:
+  hash: 95162794a3bf5e6167631fdd41a509846597231d523d0f21a76713b1f801373c
+C:\Users\ibsci\Downloads\flux\core\.stack-work\dist\f24b2e15\build\autogen\Paths_flux_core.hs:
+  hash: 476b27a1d46926baa7632989a9b54e6daf4398ced0506c4bfc60e3478d08c591
+C:\Users\ibsci\Downloads\flux\core\.stack-work\dist\f24b2e15\build\autogen\cabal_macros.h:
+  hash: 43064259e3412395e20afa7d8e70148e6971fa54266ec9b8b66e030bc2742318
+C:\Users\ibsci\Downloads\flux\core\flux-core.cabal:
+  hash: 27e0c5f489031d4a3f0855b8755f2ad138cd864e9c772ef8d140e7047e55d5c8
+C:\Users\ibsci\Downloads\flux\core\package.yaml:
+  hash: 8bfe6b56813626025502567e980fe5c965a8f33670f6e2d39bb2ed6d80413f62
+C:\Users\ibsci\Downloads\flux\core\src\Flux\DSL\Compiler.hs:
+  hash: c036724fe6eb8f02d3cc0e02445ff3479693f88cff807a6fe8fd26bdc45475d6
+C:\Users\ibsci\Downloads\flux\core\src\Flux\DSL\Parser.hs:
+  hash: 07bdcbca5a664564766273fef981db555b2298305cb2b5007f8f3763b2da8ce0
+C:\Users\ibsci\Downloads\flux\core\src\Flux\Engine\Interpreter.hs:
+  hash: 3ddf9b2775e6a7a1b9a3089d9630f4d4fdf6fe4a9dc814c7bb12df0e1b926079
+C:\Users\ibsci\Downloads\flux\core\src\Flux\Engine\Validator.hs:
+  hash: 14cc41a07c80dac6f4a4f7df155c4df17356985b1a5eb84b49799085d20d1625
+C:\Users\ibsci\Downloads\flux\core\src\Flux\Types\Error.hs:
+  hash: 1dcb562050b5ab719e4ce0e59b905403ca61df17e9bf45c57a4f4d9473457cc8
+C:\Users\ibsci\Downloads\flux\core\src\Flux\Types\Payment.hs:
+  hash: 776eb2813c58170634f3e46e419524a3d10db66483cce1299c3fe4d351bae88a
+C:\Users\ibsci\Downloads\flux\core\src\Flux\Types\Workflow.hs:
+  hash: d90d4472366bf9ed84ce3fe45876a1ebbb296131f17a513fb678038349e57227
+C:\Users\ibsci\Downloads\flux\core\src\Main.hs:
+  hash: 52d3ff124d038923a1ff87c5820d95e6c7d2565e0fccc112c42ce63e4b0e819d

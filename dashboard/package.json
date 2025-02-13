@@ -1,0 +1,14 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "PureScript Frontend Dashboard for Flux",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Starting dashboard...\"",
+    "build": "echo \"Building dashboard...\"",
+    "test": "echo \"No tests defined for Dashboard.\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

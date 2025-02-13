@@ -1,0 +1,32 @@
+openapi: 3.0.0
+info:
+  title: Flux API
+  version: 1.0.0
+paths:
+  /payments:
+    get:
+      summary: Retrieve a list of payments
+      responses:
+        '200':
+          description: A JSON array of payments
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Payment'
+components:
+  schemas:
+    Payment:
+      type: object
+      properties:
+        id:
+          type: integer
+        amount:
+          type: number
+        currency:
+          type: string
+      required:
+        - id
+        - amount
+        - currency

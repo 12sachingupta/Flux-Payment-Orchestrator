@@ -1,0 +1,10 @@
+# A minimal GraphQL schema for Flux
+type Payment {
+  id: Int!
+  amount: Float!
+  currency: String!
+}
+
+type Query {
+  payments: [Payment!]!
+}

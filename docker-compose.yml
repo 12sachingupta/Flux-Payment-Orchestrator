@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  core:
+    build:
+      context: .
+      dockerfile: deployment/docker/core.dockerfile
+    ports:
+      - "8080:8080"
+    container_name: flux_core
+
+  router:
+    build:
+      context: .
+      dockerfile: deployment/docker/router.dockerfile
+    ports:
+      - "8081:8081"
+    container_name: flux_router
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: deployment/docker/dashboard.dockerfile
+    ports:
+      - "3000:3000"
+    container_name: flux_dashboard

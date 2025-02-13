@@ -1,0 +1,12 @@
+app:
+  name: Flux
+  environment: production
+  port: 80
+
+database:
+  host: db.example.com
+  port: 5432
+  name: flux_prod
+
+logging:
+  level: WARN

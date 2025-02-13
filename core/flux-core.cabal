@@ -1,0 +1,44 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.37.0.
+--
+-- see: https://github.com/sol/hpack
+
+name:           flux-core
+version:        0.1.0.0
+build-type:     Simple
+
+library
+  exposed-modules:
+      Flux.Types.Payment
+      Flux.Types.Workflow
+      Flux.Types.Error
+      Flux.Engine.Interpreter
+      Flux.Engine.Validator
+      Flux.DSL.Parser
+      Flux.DSL.Compiler
+  other-modules:
+      Main
+      Paths_flux_core
+  hs-source-dirs:
+      src
+  build-depends:
+      base >=4.7 && <5
+  default-language: Haskell2010
+
+executable flux
+  main-is: Main.hs
+  other-modules:
+      Flux.DSL.Compiler
+      Flux.DSL.Parser
+      Flux.Engine.Interpreter
+      Flux.Engine.Validator
+      Flux.Types.Error
+      Flux.Types.Payment
+      Flux.Types.Workflow
+      Paths_flux_core
+  hs-source-dirs:
+      src
+  build-depends:
+      base >=4.7 && <5
+  default-language: Haskell2010
