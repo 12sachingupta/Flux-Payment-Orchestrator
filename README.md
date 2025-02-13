@@ -1,5 +1,4 @@
 
-# 🚀 Flux: Igniting the Future of Payment Orchestration 🚀
 
 ![fxo-letter-logo-design-on-white-background-fxo-creative-initials-letter-logo-concept-fxo-letter-design-vector](https://github.com/user-attachments/assets/573fa26e-60aa-4567-92d5-5e9602d99ab4)
 
