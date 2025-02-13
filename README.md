@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flux
 
 Flux is a modular, type-safe payment workflow orchestrator designed for user-friendliness, seamless integration, and scalability. It features a Haskell core engine, a high-performance Rust router, a PureScript-based dashboard, and cross-platform SDKs, empowering developers in the fintech space.
@@ -22,3 +23,6 @@ Flux is a modular, type-safe payment workflow orchestrator designed for user-fri
    ```bash
    git clone https://github.com/yourusername/flux.git
    cd flux
+=======
+# Flux-Payment-Orchestrator
+>>>>>>> 81befc5852696927e67d323e3f9b1ca704016b61
