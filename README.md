@@ -1,9 +1,8 @@
-Below is an even more creative, immersive README for Flux. It’s packed with engaging language, interactive elements, and imaginative visuals to inspire and captivate your audience. Feel free to replace placeholder URLs with your own images, demos, or community links.
 
-```markdown
 # 🚀 Flux: Igniting the Future of Payment Orchestration 🚀
 
-![image](https://github.com/user-attachments/assets/fcefccf4-b0f9-4f1e-a5e5-493aa679f736)
+![image](https://github.com/user-attachments/assets/df7d37cf-811e-442d-8c67-95037d8bf87e)
+
 
 
 > **"Revolutionize the way money moves—where every transaction is a masterpiece of innovation."**
