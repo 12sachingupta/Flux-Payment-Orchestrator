@@ -183,4 +183,6 @@ For details, see the [LICENSE](LICENSE) file.
 *Experience the future. Embrace Flux.*
 ```
 
+![image](https://github.com/user-attachments/assets/ac3eb93a-81c6-4b80-84d7-de7dcaf7df08)
+
 This README now harnesses vivid language, interactive call-to-actions, and immersive visuals to create a truly inspiring presentation. Enjoy sharing your innovative project with the world!
